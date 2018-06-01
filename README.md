@@ -1,4 +1,4 @@
-# pytorch-posenet
+# Pytorch-PoseNet
 
 **This Repository is a [PoseNet](http://mi.eng.cam.ac.uk/projects/relocalisation/) implementation for pytorch.**
 
